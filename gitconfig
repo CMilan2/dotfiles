@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = compainmil@gmail.com
+	email = gh api compainmil@gmail.com
 	name = Milan Compain
